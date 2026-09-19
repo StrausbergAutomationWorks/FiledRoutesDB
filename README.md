@@ -10,10 +10,9 @@ and resolves routes locally. There is no endpoint, and none is planned.
 
 **Nothing is published yet. This repository holds no data.**
 
-Collection is running and the artifact builder is written and tested, but
-publication is on hold pending written answers from the FAA on two questions
-about the terms governing redistribution. Releases will appear here when those
-answers arrive.
+Collection is running and the artifact builder is written and tested. The
+questions to the FAA that were holding publication have been answered.
+Releases will appear here.
 
 ## What it will contain
 
@@ -31,9 +30,10 @@ stale list, and nothing is produced.
 
 ## Disclaimer
 
-Derived data. **This is not FAA data, is not an official source, and is not
-endorsed by or affiliated with the FAA.** Not for operational, air traffic,
-law enforcement, or safety-of-life use.
+Derived from data obtained through the FAA SWIM Cloud Distribution Service.
+**This is not FAA data, is not an official source, and is not endorsed by or
+affiliated with the FAA.** Not for operational, air traffic, law enforcement,
+or safety-of-life use.
 
 Availability depends on upstream services and may be interrupted without
 notice.
